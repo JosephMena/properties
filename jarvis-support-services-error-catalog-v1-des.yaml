@@ -1,21 +1,3 @@
 systemErrorList:
-  - errorCode: "BA0001"
-    description: "Error de conexin a la Base de Datos."
-    literalCode: "ERROR_GENERIC"
-    operationCode: "a"
-    errorTypeCode: "FUNCTIONAL"
-    applicationCode: "MBBK"
-    severityCode: "Error"
-providerErrorList:
-  - providerErrorCode: PI0001
-    providerServiceCode: MB.CardInqV1
-    description: No se encontro resultados para los criterios de busqueda
-    errorCode: JA0001
-    errorTypeCode: FUNCTIONAL
-    errorType: App
-  - providerErrorCode: BSNS0001
-    providerServiceCode: 'BSNS0001'
-    description: Codigo de aplicacion no existe
-    errorCode: JA0001
-    errorTypeCode: FUNCTIONAL
-    errorType: App
+  - "BA0001"
+  - "BA0002"
