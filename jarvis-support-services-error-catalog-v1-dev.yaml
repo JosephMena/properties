@@ -1,7 +1,7 @@
 message: "hola joseph"
 systemErrorList:
   - errorCode: "BA0001"
-    description: "Error de conexin a la Base de Datos."
+    description: "Error de  Base de Datos."
     literalCode: "ERROR_GENERIC"
     operationCode: "a"
     errorTypeCode: "FUNCTIONAL"
