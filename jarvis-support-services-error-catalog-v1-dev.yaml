@@ -1,1 +1,4 @@
 message: "hola joseph"
+systemErrorList:
+  - "BA0001"
+  - "BA0002"
