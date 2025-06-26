@@ -3,7 +3,7 @@ systemErrorList:
   - errorCode: "BA0001"
     description: "Error de  Base de Datos."
     literalCode: "ERROR_GENERIC"
-    operationCode: "a"
+    operationCode: null
     errorTypeCode: "FUNCTIONAL"
     applicationCode: "MBBK"
     severityCode: "Error"
